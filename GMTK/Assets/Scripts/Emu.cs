@@ -41,7 +41,7 @@ public class Emu : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // StartCoroutine(ShowHide(startPos, endPos));
+        
     }
 
     // Update is called once per frame
